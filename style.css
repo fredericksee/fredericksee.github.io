@@ -1,6 +1,16 @@
 body {
   font-family: Arial, sans-serif;
   max-width: 680px;
-  margin: 80px auto;
-  padding: 0 20px;
+  margin: 100px auto;
+  padding: 0 24px;
+  line-height: 1.6;
+}
+
+h1 {
+  font-size: 32px;
+  margin-bottom: 12px;
+}
+
+p {
+  font-size: 18px;
 }
